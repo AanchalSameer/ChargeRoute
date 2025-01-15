@@ -69,3 +69,40 @@ Users can click on a charging station to get detailed information, including the
 #### 3. APIs: Google Maps API, Places API
 #### 4. Algorithms: Geospatial, Greedy Algorithm
 
+## Paper Publication Details:
+
+### Title: 
+
+WEB APPLICATION FOR EV RANGE ESTIMATION AND CHARGING STATION LOCATOR
+
+### Authors:  
+
+1Aanchal Sameer, 2Maimoona Mahmood, 3Tara Chandra Sai Reddy, 4Indrajith M, 5Radhika Sreedharan.
+
+### Journal: 
+
+International Journal of Innovative Research in Technology (IJIRT)
+
+### Published On: 
+
+13th Jan 2025 .
+Published in Volume 11 Issue 8, January 2025.
+
+### Manuscript ID: 
+
+172091
+
+### Highlights:
+
+1.  Addresses range anxiety among EV users by providing accurate range estimation and locating nearby charging stations.
+2.  Enhances the overall EV ownership experience by empowering users with informed travel decisions.
+3.  Developed a web app leveraging Google Maps API for EV charging station navigation.
+4.  Integrated geospatial and greedy algorithms for efficient route optimization.
+
+### Access Link:
+
+https://ijirt.org/Article?manuscript=172091
+
+
+
+
