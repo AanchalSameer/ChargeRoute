@@ -103,6 +103,6 @@ Published in Volume 11 Issue 8, January 2025.
 
 https://ijirt.org/Article?manuscript=172091
 
-![image](https://github.com/user-attachments/assets/dfbc0401-1e73-4639-afec-cbcce7457f39)
+
 
 
