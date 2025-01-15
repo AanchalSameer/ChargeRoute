@@ -55,7 +55,8 @@ The greedy algorithm ensures the closest charging station is prioritized, offeri
 A visual map with interactive markers shows charging stations around the user’s current location.
 Users can click on a charging station to get detailed information, including the station's address, type, and distance from their location.
 
-![image](https://github.com/user-attachments/assets/e522dc60-8de9-4cf2-a9e0-9249286db61f)
+![image](https://github.com/user-attachments/assets/c2fc2a0c-5494-459d-aaa5-193a925ed473)
+
 
 ## Project Structure:
 ![image](https://github.com/user-attachments/assets/ad02554a-667b-4aff-9351-010bf1dec54f)
