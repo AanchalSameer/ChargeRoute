@@ -59,7 +59,6 @@ Users can click on a charging station to get detailed information, including the
 
 
 ## Project Structure:
-![image](https://github.com/user-attachments/assets/ad02554a-667b-4aff-9351-010bf1dec54f)
 
 ![image](https://github.com/user-attachments/assets/0fd5825d-5dd4-4ac7-9467-b22bf4de6d0d)
 
